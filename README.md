@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- ### I’m currently working on some my pet prijects 
+- ### I’m currently working on some my pet projects 
 
 - ### I’m currently learning:
     + Dart for my pet project mobile app
